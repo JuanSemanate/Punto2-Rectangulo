@@ -1,6 +1,7 @@
 
 package modelo;
 
+
 public abstract class Figura {
     public abstract double area();
     public abstract void moverHorizontal(double unidades);

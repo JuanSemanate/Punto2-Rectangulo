@@ -1,6 +1,7 @@
 
 package modelo;
 
+
 public class Rectangulo extends Figura {
     private Punto p1; // ancla
     private Punto p2; // vértice opuesto

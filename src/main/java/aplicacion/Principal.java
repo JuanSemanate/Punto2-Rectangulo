@@ -1,6 +1,7 @@
 
 package aplicacion;
 
+
 import controlador.ControladorFiguras;
 import modelo.Rectangulo;
 import vista.VistaConsola;
